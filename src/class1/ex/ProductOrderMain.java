@@ -7,7 +7,7 @@ public class ProductOrderMain {
 
         ProductOrder order1 = new ProductOrder();
         order1.productName = "두부";
-        order1.price = 2000;
+        order1.price = 2000; //2000
         order1.quantity = 2;
         orders[0] = order1;
 
