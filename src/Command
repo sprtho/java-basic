@@ -1,0 +1,25 @@
+Java spring 인텔리제이  단축키
+
+ALT + INSERT  -> generate (Constructor, getter, setter)
+
+ctrl + shift + enter -> 자동완성
+
+ALT + ENTER -> Show Context Action (implement method)
+
+Ctrl + Alt + V -> Extract/Introduce -> 변수 생성?
+
+ctrl + shift + t -> test 소스 생성 (메소드 명 클릭하고)
+
+CTRL + E -> 과거 소스로 이동
+
+CTRL + F12 -> 해당 클래스의 메소드 볼수있음
+
+ctrl + alt + b -> 인터페이스의 구현함수 확인 가능
+
+ctrl + N -> 전체 소스 검색
+
+ctrl + B -> 해당 클래스 사용하는 소스 찾아감
+
+ctrl + o -> method overiding
+
+iter 명령어 -> for loop 생성
